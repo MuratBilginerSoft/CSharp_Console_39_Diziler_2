@@ -1,0 +1,7 @@
+C:\Users\mrt_b\source\repos\Project 22 Diziler 2\Project 22 Diziler 2\bin\Debug\Project 22 Diziler 2.exe.config
+C:\Users\mrt_b\source\repos\Project 22 Diziler 2\Project 22 Diziler 2\bin\Debug\Project 22 Diziler 2.exe
+C:\Users\mrt_b\source\repos\Project 22 Diziler 2\Project 22 Diziler 2\bin\Debug\Project 22 Diziler 2.pdb
+C:\Users\mrt_b\source\repos\Project 22 Diziler 2\Project 22 Diziler 2\obj\Debug\Project 22 Diziler 2.csprojAssemblyReference.cache
+C:\Users\mrt_b\source\repos\Project 22 Diziler 2\Project 22 Diziler 2\obj\Debug\Project 22 Diziler 2.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 22 Diziler 2\Project 22 Diziler 2\obj\Debug\Project 22 Diziler 2.exe
+C:\Users\mrt_b\source\repos\Project 22 Diziler 2\Project 22 Diziler 2\obj\Debug\Project 22 Diziler 2.pdb
